@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "ab2227a9ec3301f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea6f9cbe530a77ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/pages/schedule.md",
+            "mode": "source"
+          }
+        },
+        "group": "65e6413d2cbdc90d"
+      },
+      {
+        "id": "24eea5365cb43c4a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/pages/schedule.md",
+            "mode": "preview"
+          }
+        },
+        "group": "65e6413d2cbdc90d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e35804a3a0b251fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94e1ac42f3b96ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "949a3a2fc442a689",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ef0a8c3832d75a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6fdbd6942d5db49",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2ab9c73c6b383e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eaf1d895f6b1829",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/pages/schedule.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ea6f9cbe530a77ea",
+  "lastOpenFiles": [
+    "content/pages/schedule.md",
+    "content/pages/syllabus.md",
+    "content/_index.md",
+    "content/pages/Untitled.md"
+  ]
+}
